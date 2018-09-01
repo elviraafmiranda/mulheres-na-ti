@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: #f6eaf7;
+}
+
+.btn-primary {
+    background-color: #f6eaf7;
+    border-color: rgba(0, 0, 0, .125);
+    color: #000;
+}
+
+.btn-primary:hover {
+    background-color: #f6eaf7;
+    border-color: #f6eaf7;
+    color: #000;
+}
